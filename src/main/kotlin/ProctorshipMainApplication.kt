@@ -1,0 +1,5 @@
+class ProctorshipMainApplication {
+    fun main(){
+
+    }
+}
